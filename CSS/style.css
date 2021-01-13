@@ -1,0 +1,22 @@
+img {
+    vertical-align: middle;
+    border-style: inherit;
+  }
+  
+  a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
+  #Portfolio {
+    text-align: center;
+    padding: 40px;
+    background: url(Meli illestration.jpg) no-repeat;
+    background-size: cover;
+  }
+  
+  #Portfolio .jumbotron {
+    border-radius: 20px;
+    padding: 40px;
+    background-color: rgba(255,255,255,0.75);
+  }
