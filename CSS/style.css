@@ -11,7 +11,8 @@ img {
   #Portfolio {
     text-align: center;
     padding: 40px;
-    background: url(Meli illestration.jpg) no-repeat;
+    background-repeat:none;
+    background-image: url("Meli illestration.jpg");
     background-size: cover;
   }
   
